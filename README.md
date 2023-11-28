@@ -1,0 +1,1 @@
+An npm package to scrape sahibinden.com and turn the gathered data into JSON format.
